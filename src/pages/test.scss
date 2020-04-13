@@ -1,0 +1,14 @@
+.container {
+  font-size: 35px !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.test-title {
+  align-self: center;
+}
